@@ -1,0 +1,45 @@
+.error {
+  color: red;
+}
+
+.navbar{
+  background-color: lightgray;
+}
+
+.nav-item a{
+  color: black;
+  float: right;
+}
+
+.react-calendar-heatmap .color-scale-Dry {fill: #75aa42}
+.react-calendar-heatmap .color-scale-Off {fill: #5e3e45}
+.react-calendar-heatmap .color-scale-Wet {fill: #ce1e31}
+.react-calendar-heatmap .color-scale-Left {fill: grey}
+
+.rect-Dry{
+  height: 40px;
+  width: 100%;
+  min-width: 40px;  
+  background-color: #75aa42;
+}
+
+.rect-Off{
+  height: 40px;
+  width: 100%;
+  min-width: 40px;
+  background-color: #5e3e45;
+}
+
+.rect-Wet{
+  height: 40px;
+  width: 100%;
+  min-width: 40px;
+  background-color: #ce1e31;
+}
+
+.rect-Left{
+  height: 40px;
+  width: 100%;
+  min-width: 40px;  
+  background-color: grey;
+}
